@@ -52,11 +52,12 @@ nmap -A 192.168.1.127
 
 ## Active Response
 
-* Wazuh active response was configured to automatically block the attacker IP after detecting suspicious scanning activity.
-- Triggered firewall drop action on the target machine  
-- Blocked further communication from the attacker  
-- Demonstrated automated threat mitigation (IDS → IPS behavior)  
-
+* Wazuh active response was successfully triggered after detecting Nmap scanning activity.
+- Multiple alerts generated from Suricata were correlated in Wazuh  
+- The attacker IP (192.168.1.198) was automatically blocked  
+- Firewall-drop action was executed on the target system  
+- Logs confirmed repeated “Host Blocked by firewall-drop Active Response” events  
+ 
 ---
 
 ## Alerts Observed
