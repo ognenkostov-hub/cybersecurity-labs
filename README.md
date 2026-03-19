@@ -7,7 +7,6 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 - Wazuh (SIEM)
 - Suricata (IDS)
 - Nmap (Network Scanning)
-- Wireshark (Packet Analysis)
 - PowerShell (Attack Simulation)
 
 ---
