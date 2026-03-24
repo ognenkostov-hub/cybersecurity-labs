@@ -146,5 +146,5 @@ powershell -EncodedCommand <base64_payload>
 
 ## Author
 
-GitHub: https://github.com/ognenkostov-hub
+GitHub: https://github.com/ognenkostov-hub/cybersecurity-labs
 LinkedIn: https://www.linkedin.com/in/ognen-kostov-42921881
