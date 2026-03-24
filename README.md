@@ -1,6 +1,6 @@
 # Cybersecurity Labs Portfolio
 
-This repository contains hands-on cybersecurity lab projects demonstrating SIEM monitoring, intrusion detection, endpoint telemetry, network scanning, attack simulation, and Active Directory security hardening using industry-relevant tools.
+This repository contains hands-on cybersecurity lab projects demonstrating SIEM monitoring, intrusion detection, endpoint telemetry, network scanning, attack simulation, Active Directory security hardening, and secure VPN deployment using industry-relevant tools.
 
 ---
 
@@ -11,14 +11,17 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 - Sysmon (Endpoint Telemetry)
 - Nmap (Network Scanning)
 - PowerShell (Attack Simulation)
-- Windows Server (Active Directory Domain Services)
+- Windows Server (Active Directory Domain Services, RRAS)
 - Group Policy Management (GPO)
+- Windows Defender Firewall
+- Event Viewer (Logging & Monitoring)
 
 ---
 
 ## Projects Overview
 
 ### 1. Wazuh SIEM Monitoring
+📂 [View Project](./wazuh-powershell-attack-detection)
 
 - Configured Wazuh for log collection and analysis  
 - Monitored system activity and generated alerts  
@@ -27,6 +30,7 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 ---
 
 ### 2. Suricata Intrusion Detection
+📂 [View Project](./ssh-brute-force)
 
 - Configured Suricata IDS for network monitoring  
 - Analyzed network traffic for malicious patterns  
@@ -35,6 +39,7 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 ---
 
 ### 3. Nmap Network Scanning
+📂 [View Project](./nmap-detection)
 
 - Performed host discovery and port scanning  
 - Identified open ports and running services  
@@ -43,6 +48,7 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 ---
 
 ### 4. PowerShell Attack Detection
+📂 [View Project](./wazuh-powershell-attack-detection)
 
 - Simulated malicious PowerShell activity (encoded commands)  
 - Generated process execution events  
@@ -57,6 +63,7 @@ Focus:
 ---
 
 ### 5. Malware Behavior Simulation
+📂 [View Project](./malware-simulation)
 
 - Simulated malware-like activity on a Windows system  
 - Created files in suspicious directories (Temp paths)  
@@ -71,6 +78,7 @@ Focus:
 ---
 
 ### 6. Active Directory Security Hardening
+📂 [View Project](./active-directory-security-hardening)
 
 - Configured domain-level security policies using GPO  
 - Enforced strong password requirements and complexity rules  
@@ -86,6 +94,26 @@ Focus:
 
 ---
 
+### 7. Enterprise VPN Deployment & Secure Remote Access
+📂 [View Project](./enterprise-vpn-deployment-rras-active-directory)
+
+- Deployed VPN infrastructure using Routing and Remote Access Services (RRAS)  
+- Configured Remote Access role and enabled VPN services  
+- Implemented static IP address pool for VPN clients  
+- Configured Windows Defender Firewall to allow VPN traffic (SSTP)  
+- Enabled logging and monitoring using Event Viewer  
+- Created and managed VPN users in Active Directory  
+- Configured and tested VPN connection from client machine  
+
+Focus:
+- Secure remote access  
+- VPN tunneling & encryption (SSTP)  
+- Identity & access management (IAM)  
+- Firewall configuration  
+- Logging and monitoring  
+
+---
+
 ## Objective
 
 The goal of these labs is to build practical, hands-on experience in cybersecurity operations, focusing on:
@@ -95,9 +123,10 @@ The goal of these labs is to build practical, hands-on experience in cybersecuri
 - Network analysis & scanning  
 - Endpoint telemetry and log analysis (Sysmon)  
 - Identity & access security (Active Directory)  
+- Secure remote access (VPN)  
 - Security hardening and policy enforcement  
 
-These projects simulate real-world security scenarios and demonstrate the ability to detect, analyze, and prevent suspicious activity in enterprise environments.
+These projects simulate real-world security scenarios and demonstrate the ability to detect, analyze, and secure enterprise environments.
 
 ---
 
@@ -107,4 +136,4 @@ These projects simulate real-world security scenarios and demonstrate the abilit
 Aspiring Cybersecurity Professional  
 
 - GitHub: https://github.com/ognenkostov-hub/cybersecurity-labs  
-- LinkedIn: https://www.linkedin.com/in/ognen-kostov-42921881
+- LinkedIn: https://www.linkedin.com/in/ognen-kostov-42921881  
