@@ -185,10 +185,13 @@ Add screenshots showing:
 
 ---
 
-## Credits
+## Lab Environment & Credits
 
-Lab environment provided by:
-- ACI Learning Virtual Labs (aciplab.com)
+This project was conducted using a virtual lab environment provided by ACI Learning (ACILab).
+
+While the lab infrastructure was pre-configured, all security configurations, policy implementations, and validation steps were performed independently.
+
+The project reflects hands-on practice in Active Directory security hardening, simulating real-world enterprise scenarios.
 
 ---
 
