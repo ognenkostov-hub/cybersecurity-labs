@@ -92,6 +92,6 @@ nmap -A 192.168.1.127
 
 ---
 
-## 🔗 Author
-GitHub: https://github.com/ognenkostov-hub  
+## Author
+GitHub: https://github.com/ognenkostov-hub/cybersecurity-labs 
 LinkedIn: https://www.linkedin.com/in/ognen-kostov-42921881
