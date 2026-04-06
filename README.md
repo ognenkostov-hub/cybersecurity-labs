@@ -6,7 +6,7 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 
 ## Lab Environment
 
-All labs were conducted on **physical machines** to better simulate real-world cybersecurity scenarios, including network traffic behavior, endpoint telemetry, and system-level interactions.
+Part of the labs were conducted on **physical machines** to better simulate real-world cybersecurity scenarios, including network traffic behavior, endpoint telemetry, and system-level interactions.
 
 
 **Equipment used:**
