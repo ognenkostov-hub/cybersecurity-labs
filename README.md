@@ -16,7 +16,6 @@ All labs were conducted on **physical machines** to better simulate real-world c
 - ASUS Notebook X512D (Kali)
 - Wireless Router TP-Link Archer C24
 
----
 
 The Active Directory environment was deployed using **virtualization (ACI Lab)** to accurately replicate enterprise domain infrastructure, user management, and policy enforcement.
 
