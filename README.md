@@ -4,7 +4,26 @@ This repository contains hands-on cybersecurity lab projects demonstrating SIEM 
 
 ---
 
+## Lab Environment
+
+All labs were conducted on **physical machines** to better simulate real-world cybersecurity scenarios, including network traffic behavior, endpoint telemetry, and system-level interactions.
+
+
+**Equipment used:**
+
+- HP 255 G8 Notebook (Linux Mint)
+- Lenovo G50-80 (Windows10)
+- ASUS Notebook X512D (Kali)
+- Wireless Router TP-Link Archer C24
+
+---
+
+The Active Directory environment was deployed using **virtualization (ACI Lab)** to accurately replicate enterprise domain infrastructure, user management, and policy enforcement.
+
+This setup allowed for more accurate detection, logging, and analysis compared to purely virtual environments.
 ## Tools & Technologies
+
+---
 
 - Wazuh (SIEM)
 - Suricata (IDS)
