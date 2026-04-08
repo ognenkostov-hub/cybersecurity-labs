@@ -13,7 +13,7 @@ Part of the labs were conducted on **physical machines** to better simulate real
 
 - HP 255 G8 Notebook (Linux Mint)
 - Lenovo G50-80 (Windows10)
-- ASUS Notebook X512D (Kali)
+- ASUS VivoBook X512D (Kali)
 - Wireless Router TP-Link Archer C24
 
 
