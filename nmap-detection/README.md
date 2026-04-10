@@ -3,7 +3,7 @@
 ## Overview
 * This project simulates network reconnaissance activity using Nmap and demonstrates how port scanning behavior can be detected using Suricata    IDS and analyzed and prevented through Wazuh SIEM.
 
-* The objective is to replicate the reconnaissance phase of an attack, where an attacker scans a target system to discover open ports and         services.
+* The objective is to replicate the reconnaissance phase of an attack, where an attacker scans a target system to discover open ports and services.
 
 ---
 
