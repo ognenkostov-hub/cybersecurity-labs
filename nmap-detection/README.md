@@ -42,7 +42,8 @@ nmap -A 192.168.1.127
 - SYN scan behavior  
 - Multiple connection attempts across ports  
 - Suspicious network probing activity
--
+
+
 - Wazuh SIEM:
 - Collected Suricata alerts  
 - Correlated scan activity across events  
