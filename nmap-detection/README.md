@@ -52,7 +52,7 @@ nmap -A 192.168.1.127
 
 ## Active Response
 
-* Wazuh active response was successfully triggered after detecting Nmap scanning activity.
+- Wazuh active response was successfully triggered after detecting Nmap scanning activity.
 - Multiple alerts generated from Suricata were correlated in Wazuh  
 - The attacker IP (192.168.1.198) was automatically blocked  
 - Firewall-drop action was executed on the target system  
