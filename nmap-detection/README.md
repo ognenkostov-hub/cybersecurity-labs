@@ -38,12 +38,12 @@ nmap -A 192.168.1.127
 
 ## Detection & Analysis
 
-* Suricata detected:
+- Suricata detected:
 - SYN scan behavior  
 - Multiple connection attempts across ports  
 - Suspicious network probing activity
 
-* Wazuh SIEM:
+- Wazuh SIEM:
 - Collected Suricata alerts  
 - Correlated scan activity across events  
 - Identified reconnaissance behavior  
